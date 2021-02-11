@@ -1,0 +1,16 @@
+#btn-blue {
+  border: 3px solid #222831;  
+  color: #222831;
+  text-decoration: none;
+  padding: 12px 6px;
+  border-radius: 100px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+#btn-blue:hover {
+  border: 3px solid #222831;
+  color: white; 
+  background-color: #222831;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); 
+}
